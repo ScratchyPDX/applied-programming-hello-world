@@ -1,1 +1,1 @@
-# applied-programming-hello-world
+# hello-world
