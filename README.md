@@ -3,7 +3,7 @@ Hello World project written in C#
 
 The purpose of this project is to show that my development environment is setup correctly
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/q9ZoqfRGbtE)
 
 # Development Environment
 This project is written in C# using .NET 8.0 SDK and Visual Studio Code
